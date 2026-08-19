@@ -108,10 +108,6 @@
     <a href="https://www.leetcode.com/Midnight_Raven" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="msameerfarooq" height="30" width="40" /></a>
 </p>
 <br>
-
----
----
-
 <br>
 
 ### ✍️Random Quote
