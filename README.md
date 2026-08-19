@@ -33,16 +33,13 @@
 
 <h2>
   <img
-    src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"
+    src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif"
     width="30px"
     alt="Skills"
   />
   My Skills
 </h2>
 
-<h2>
-  🛠️ My Skills
-</h2>
 
 ### SRE & DevOps:
 
@@ -97,33 +94,6 @@
 </p>
 
 
-<h2>
-  🛠️ My Skills
-</h2>
-
-### SRE & DevOps:
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,git,githubactions,gitlab" alt="SRE & DevOps Skills" />
-</p>
-
-### Programming languages:
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,java,cpp,bash" alt="Programming Languages" />
-</p>
-
-### Frameworks and Libraries:
-
-<p>
-  <img src="https://skillicons.dev/icons?i=django,react,fastapi,numpy,pandas,matplotlib,selenium" alt="Frameworks and Libraries" />
-</p>
-
-### Databases:
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite" alt="Databases" />
-</p>
 ### 💻 Programming Languages
 
 <p>
