@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Sameer Farooq</h1>
+<h1 align="center">Hi 👋, I'm Mrugesh Kulkarni</h1>
 <p align="center">
-    <a href="https://github.com/msameerfarooq">
-        <img src="https://komarev.com/ghpvc/?username=msameerfarooq&style=flat-square&color=blue" alt="page views" />
+    <a href="https://github.com/Pixel-Stock">
+        <img src="https://komarev.com/ghpvc/?username=Pixel-Stockq&style=flat-square&color=blue" alt="page views" />
     </a>
-    <a href="https://github.com/msameerfarooq">
-        <img alt="GitHub followers" src="https://img.shields.io/github/followers/msameerfarooq?style=flat-square&color=green&logo=github">
+    <a href="https://github.com/Pixel-Stock">
+        <img alt="GitHub followers" src="https://img.shields.io/github/followers/Pixel-Stock?style=flat-square&color=green&logo=github">
     </a>
 </p>
 
@@ -22,12 +22,12 @@
   About Me ...
 </h2>
 
-- 🏢 **Senior DevOps Engineer** @ **NorthBay Solutions**
+- 🏢 **Student** @ **Vishwakarma Institute of Technology, Pune**
 - 🌐 **Cloud Expertise**: AWS (Amazon Web Services)
 - 🔧 **Infrastructure as Code**: Terraform
 - 🛠️ **DevOps Tools**: CI/CD pipelines, Docker, Gitlab CI
 - 📈 **Focus Areas**: Cloud architecture, automation, infrastructure optimization, and security
-- 🥅 **2025 Goals**: Contribute more towards Open Source Projects and advance Kubernetes skills
+- 🥅 **2026 Goals**: Contribute more towards Open Source Projects and advance Kubernetes skills
 
 &emsp;
 <h2>
@@ -48,11 +48,9 @@
 ### Programming languages:
 &emsp;
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![HCL](https://img.shields.io/badge/-HCL-000?&logo=HCL)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007ACC)
 ![C++](https://img.shields.io/badge/-C%2B%2B-000?&logo=C%2B%2B)
-![YAML](https://img.shields.io/badge/-YAML-000?&logo=YAML)
 ![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash)
 
 ### Frameworks and Libraries:
@@ -93,12 +91,12 @@
 </div>
 
 <p align="center">
-  <img alt="msameerfarooq's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=msameerfarooq&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-  <img alt="msameerfarooq's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msameerfarooq&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+  <img alt="Pixel-Stock's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Pixel-Stock&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+  <img alt="Pixel-Stock's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pixel-Stock&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 </p>
 
 <p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=msameerfarooq&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" alt="GitHub Streak Stats"/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pixel-Stock&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" alt="GitHub Streak Stats"/>
 </p>
 
 
@@ -112,7 +110,7 @@
 </div> -->
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=msameerfarooq&theme=juicyfresh&no-bg=true&title=MultiLanguage,ReStars,Commit,Followers,Repo,PR,Experience,Stars" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Pixel-Stock&theme=juicyfresh&no-bg=true&title=MultiLanguage,ReStars,Commit,Followers,Repo,PR,Experience,Stars" />
 </p>
 
 &emsp;
@@ -122,21 +120,16 @@
  📊 LeetCode Stats
 </h2>
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/msameerfarooq)](https://leetcode.com/msameerfarooq)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Midnight_Raven)](https://leetcode.com/Midnight_Raven)
 
 
 
 <h2 align="left">📫 Connect with me:</h2>
 
 <p align="center">
-    <a href="mailto:me.sameer.farooq@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" height="40" width="40" alt="Gmail"/></a>
-    <a href="https://linkedin.com/in/msameerfarooq" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/msameerfarooq" height="30" width="40" /></a>
-    <a href="https://www.leetcode.com/msameerfarooq" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="msameerfarooq" height="30" width="40" /></a>
-    <a href="https://www.hackerrank.com/msameerfarooq" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="msameerfarooq" height="30" width="40" /></a>
-    <a href="https://dev.to/msameerfarooq" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="msameerfarooq" height="30" width="40" /></a>
-    <a href="https://instagram.com/msameerfarooq" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="msameerfarooq" height="30" width="40" /></a>
-    <a href="https://twitter.com/msameerfarooq" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="msameerfarooq" height="30" width="40" /></a>
-    <a href="https://fb.com/msameerfarooq" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="msameerfarooq" height="30" width="40" /></a>
+    <a href="mailto:kulkarnimrugesh06@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" height="40" width="40" alt="Gmail"/></a>
+    <a href="https://linkedin.com/in/mrugeshkulkarni" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/msameerfarooq" height="30" width="40" /></a>
+    <a href="https://www.leetcode.com/Midnight_Raven" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="msameerfarooq" height="30" width="40" /></a>
 </p>
 <br>
 
