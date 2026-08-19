@@ -174,11 +174,11 @@
 
 <h2>
   <img
-    src="https://media.giphy.com/media/d9a33ZMUvJAGbeEeYX/giphy.gif"
+    src="https://giphy.com/stickers/shine-shiny-stefdubbs-iroGO5siMg0eXrwI2v"
     width="30px"
-    alt="LeetCode"
+    alt="Connect"
   />
-  LeetCode Stats
+  FIXING IT RIGHTNOW
 </h2>
 
 
