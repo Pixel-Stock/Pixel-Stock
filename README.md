@@ -110,7 +110,6 @@
 <br>
 
 
-<h2 align="left">📫 Connect with me:</h2>
+<h2 align="left">✍️Random Quote:</h2>
 
-### ✍️Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
