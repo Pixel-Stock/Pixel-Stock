@@ -226,6 +226,20 @@
 
 </p>
 
+<h2 align="left">📫 Connect with me:</h2>
+
+<p align="center">
+    <a href="mailto:me.sameer.farooq@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" height="40" width="40" alt="Gmail"/></a>
+    <a href="https://linkedin.com/in/msameerfarooq" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/msameerfarooq" height="30" width="40" /></a>
+    <a href="https://www.leetcode.com/msameerfarooq" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="msameerfarooq" height="30" width="40" /></a>
+    <a href="https://www.hackerrank.com/msameerfarooq" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="msameerfarooq" height="30" width="40" /></a>
+    <a href="https://dev.to/msameerfarooq" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="msameerfarooq" height="30" width="40" /></a>
+    <a href="https://instagram.com/msameerfarooq" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="msameerfarooq" height="30" width="40" /></a>
+    <a href="https://twitter.com/msameerfarooq" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="msameerfarooq" height="30" width="40" /></a>
+    <a href="https://fb.com/msameerfarooq" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="msameerfarooq" height="30" width="40" /></a>
+</p>
+<br>
+
 <br>
 
 <h2>
