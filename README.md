@@ -83,31 +83,7 @@
 - **Collaboration**: Worked closely with development teams to integrate DevOps practices and improve delivery pipelines.
 
 &emsp;
-<div align="left">
-  <h2>
-    <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>
-    Git Activeness
-  </h2>
-</div>
 
-<p align="center">
-  <img alt="Pixel-Stock's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Pixel-Stock&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-  <img alt="Pixel-Stock's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pixel-Stock&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-</p>
-
-<p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pixel-Stock&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" alt="GitHub Streak Stats"/>
-</p>
-
-
-<br>
-<!-- &emsp;
-<div align="left">
-  <h2>
-    <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />
-    Git profile Trophies
-  </h2>
-</div> -->
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Pixel-Stock&theme=juicyfresh&no-bg=true&title=MultiLanguage,ReStars,Commit,Followers,Repo,PR,Experience,Stars" />
