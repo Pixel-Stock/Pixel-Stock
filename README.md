@@ -180,14 +180,7 @@
   />
   LeetCode Stats
 </h2>
-<h2>
-  <img
-    src="https://giphy.com/stickers/shine-shiny-stefdubbs-iroGO5siMg0eXrwI2v"
-    width="30px"
-    alt="Connect"
-  />
-  Connect with me
-</h2>
+
 
 
 <p align="center">
