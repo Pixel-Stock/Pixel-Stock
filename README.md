@@ -173,72 +173,13 @@
 
 <h2>
   <img
-    src="https://media.giphy.com/media/3o7btZ3T6y3JTmVYQw/giphy.gif"
+    src="https://media.giphy.com/media/3o7btZ3T6y3JTmVYQw/giphy.gif](https://media.giphy.com/media/d9a33ZMUvJAGbeEeYX/giphy.gif"
     width="30px"
     alt="Connect"
   />
   Connect with me
 </h2>
 
-<p align="center">
-
-  <a href="mailto:kulkarnimrugesh06@gmail.com">
-    <img
-      src="https://img.icons8.com/color/48/000000/gmail-new.png"
-      width="32"
-      height="32"
-      alt="Gmail"
-    />
-  </a>
-
-  &nbsp;&nbsp;
-
-  <a href="https://linkedin.com/in/mrugeshkulkarni" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      width="32"
-      height="32"
-      alt="LinkedIn"
-    />
-  </a>
-
-  &nbsp;&nbsp;
-
-  <a href="https://leetcode.com/Midnight_Raven" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-      width="32"
-      height="32"
-      alt="LeetCode"
-    />
-  </a>
-
-  &nbsp;&nbsp;
-
-  <a href="https://github.com/Pixel-Stock" target="_blank">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-      width="32"
-      height="32"
-      alt="GitHub"
-    />
-  </a>
-
-</p>
-
-<h2 align="left">📫 Connect with me:</h2>
-
-<p align="center">
-    <a href="mailto:me.sameer.farooq@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" height="40" width="40" alt="Gmail"/></a>
-    <a href="https://linkedin.com/in/msameerfarooq" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/msameerfarooq" height="30" width="40" /></a>
-    <a href="https://www.leetcode.com/msameerfarooq" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="msameerfarooq" height="30" width="40" /></a>
-    <a href="https://www.hackerrank.com/msameerfarooq" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="msameerfarooq" height="30" width="40" /></a>
-    <a href="https://dev.to/msameerfarooq" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="msameerfarooq" height="30" width="40" /></a>
-    <a href="https://instagram.com/msameerfarooq" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="msameerfarooq" height="30" width="40" /></a>
-    <a href="https://twitter.com/msameerfarooq" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="msameerfarooq" height="30" width="40" /></a>
-    <a href="https://fb.com/msameerfarooq" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="msameerfarooq" height="30" width="40" /></a>
-</p>
-<br>
 
 <p align="center">
   <a href="mailto:kulkarnimrugesh06@gmail.com">
