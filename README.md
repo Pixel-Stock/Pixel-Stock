@@ -171,9 +171,18 @@
 
 <br>
 
+
 <h2>
   <img
-    src="https://media.giphy.com/media/3o7btZ3T6y3JTmVYQw/giphy.gif](https://media.giphy.com/media/d9a33ZMUvJAGbeEeYX/giphy.gif"
+    src="https://media.giphy.com/media/d9a33ZMUvJAGbeEeYX/giphy.gif"
+    width="30px"
+    alt="LeetCode"
+  />
+  LeetCode Stats
+</h2>
+<h2>
+  <img
+    src="https://media.giphy.com/media/3o7btZ3T6y3JTmVYQw/giphy.gif"
     width="30px"
     alt="Connect"
   />
