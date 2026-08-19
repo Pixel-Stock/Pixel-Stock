@@ -43,130 +43,75 @@
 
 ### SRE & DevOps:
 
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white" alt="Terraform">
-  <img src="https://img.shields.io/badge/Terragrunt-000000?style=flat-square&logo=terraform&logoColor=white" alt="Terragrunt">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
-  <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab CI">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes">
-</p>
+&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)
+![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=Terraform)
+![Terragrunt](https://img.shields.io/badge/-Terragrunt-000?&logo=Terraform)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![GitHub Actions](https://img.shields.io/badge/-GitHub-Actions-000?&logo=GitHub-Actions)
+![GitLab CI](https://img.shields.io/badge/-GitLab-CI-000?&logo=GitLab)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-000?&logo=githubactions)
+![Vercel](https://img.shields.io/badge/-Vercel-000?&logo=Vercel)
+![Railway](https://img.shields.io/badge/-Railway-000?&logo=Railway)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Google Colab](https://img.shields.io/badge/-Google%20Colab-000?&logo=Google-Colab)
+
 
 ### Programming languages:
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white" alt="Bash">
-</p>
+&nbsp;
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![HCL](https://img.shields.io/badge/-HCL-000?&logo=Terraform)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
+![C++](https://img.shields.io/badge/-C%2B%2B-000?&logo=C%2B%2B)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![YAML](https://img.shields.io/badge/-YAML-000?&logo=YAML)
+![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash)
+
 
 ### Frameworks and Libraries:
 
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain">
-  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama">
-  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white" alt="spaCy">
-</p>
+&nbsp;
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
+![Spring Boot](https://img.shields.io/badge/-Spring-Boot-000?&logo=Spring-Boot)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=Express)
+![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI)
+![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-CSS-000?&logo=Tailwind-CSS)
+![ShadCN UI](https://img.shields.io/badge/-ShadCN-UI-000?&logo=shadcnui)
+![Three.js](https://img.shields.io/badge/-Three.js-000?&logo=Three.js)
+![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=NumPy)
+![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?&logo=Matplotlib)
+![Selenium](https://img.shields.io/badge/-Selenium-000?&logo=Selenium)
+![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-000?&logo=BeautifulSoup)
+![LangChain](https://img.shields.io/badge/-LangChain-000?&logo=LangChain)
+![LangGraph](https://img.shields.io/badge/-LangGraph-000?&logo=LangChain)
+![Ollama](https://img.shields.io/badge/-Ollama-000?&logo=Ollama)
+![spaCy](https://img.shields.io/badge/-spaCy-000?&logo=spaCy)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+![Keras](https://img.shields.io/badge/-Keras-000?&logo=Keras)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-000?&logo=scikit-learn)
+![SciPy](https://img.shields.io/badge/-SciPy-000?&logo=SciPy)
+
 
 ### Databases:
 
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis">
-</p>
-
-
-### 💻 Programming Languages
-
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-</p>
-
-### 🎨 Frontend
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/ShadCN_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="ShadCN UI"/>
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js"/>
-</p>
-
-### ⚙️ Backend
-
-<p>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
-</p>
-
-### ☁️ Cloud & DevOps
-
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab"/>
-</p>
-
-### 🤖 AI / ML / DL
-
-<p>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
-  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" alt="spaCy"/>
-  <img src="https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG"/>
-  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs"/>
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph"/>
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini"/>
-  <img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude API"/>
-  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" alt="Groq"/>
-  <img src="https://img.shields.io/badge/Qwen_3-000000?style=for-the-badge&logo=alibabacloud&logoColor=white" alt="Qwen 3"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy"/>
-  <img src="https://img.shields.io/badge/Agentic_AI-6A5ACD?style=for-the-badge&logo=probot&logoColor=white" alt="Agentic AI"/>
-  <img src="https://img.shields.io/badge/PINN-4B0082?style=for-the-badge&logo=python&logoColor=white" alt="PINN"/>
-  <img src="https://img.shields.io/badge/CoolProp-00599C?style=for-the-badge&logo=python&logoColor=white" alt="CoolProp"/>
-</p>
-
+&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
+![Redshift](https://img.shields.io/badge/-Redshift-000?&logo=Amazon-AWS)
+![Supabase](https://img.shields.io/badge/-Supabase-000?&logo=Supabase)
 <br>
 
 <h2>
