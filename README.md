@@ -1,13 +1,4 @@
 <h1 align="center">Hi 👋, I'm Mrugesh Kulkarni</h1>
-<p align="center">
-    <a href="https://github.com/Pixel-Stock">
-        <img src="https://komarev.com/ghpvc/?username=Pixel-Stockq&style=flat-square&color=blue" alt="page views" />
-    </a>
-    <a href="https://github.com/Pixel-Stock">
-        <img alt="GitHub followers" src="https://img.shields.io/github/followers/Pixel-Stock?style=flat-square&color=green&logo=github">
-    </a>
-</p>
-
 <img 
   src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"
   alt="side_sticker"
