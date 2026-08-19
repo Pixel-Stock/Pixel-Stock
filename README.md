@@ -172,20 +172,9 @@
 <br>
 
 <h2>
-  <img src="https://media1.giphy.com/media/PiudYMVGUpdx4B4N2t/giphy.gif" width="30px" alt="Connect with me">
+  <img src="https://media0.giphy.com/media/N8aQOZltXT0AeCSdTF/giphy.gif" width="30px" alt="Connect with me">
   &nbsp;Connect with me
 </h2>
-
-
-<h2>
-  <img
-    src="[https://giphy.com/stickers/shine-shiny-stefdubbs-iroGO5siMg0eXrwI2v](https://giphy.com/stickers/shine-shiny-stefdubbs-iroGO5siMg0eXrwI2v)"
-    width="30px"
-  />
-  FIXING IT RIGHTNOW
-</h2>
-
-
 
 <p align="center">
   <a href="mailto:kulkarnimrugesh06@gmail.com">
