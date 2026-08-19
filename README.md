@@ -171,6 +171,11 @@
 
 <br>
 
+<h2>
+  <img src="https://media1.giphy.com/media/PiudYMVGUpdx4B4N2t/giphy.gif" width="30px" alt="Connect with me">
+  &nbsp;Connect with me
+</h2>
+
 
 <h2>
   <img
