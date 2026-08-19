@@ -153,26 +153,6 @@
 
 <h2>
   <img
-    src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif"
-    width="30px"
-    alt="Highlights"
-  />
-  Highlights
-</h2>
-
-- ☁️ <strong>Cloud Engineering:</strong> Building scalable and secure cloud infrastructure using AWS.
-- 🏗️ <strong>Infrastructure as Code:</strong> Working with Terraform and infrastructure automation.
-- ⚙️ <strong>DevOps & Automation:</strong> Working with Docker, Kubernetes, CI/CD, and GitHub workflows.
-- 🤖 <strong>AI Engineering:</strong> Building applications around LLMs, RAG pipelines, agentic systems, and machine learning.
-- 🔐 <strong>Security:</strong> Exploring cloud security, behavioral threat detection, and AI-assisted cybersecurity.
-- 🌐 <strong>Open Source:</strong> Working toward more open-source contributions throughout 2026.
-
-<br>
-
-<hr>
-
-<h2>
-  <img
     src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif"
     width="30px"
     alt="LeetCode"
