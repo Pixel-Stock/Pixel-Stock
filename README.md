@@ -1,117 +1,179 @@
 <h1 align="center">Hi 👋, I'm Mrugesh Kulkarni</h1>
-<img 
+
+<img
   src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"
   alt="side_sticker"
   align="right"
-  width=200px
-  height=200px
+  width="200px"
+  height="200px"
   style="margin-top: 50px;"
 />
 
 <h2>
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" alt="About Me">
   About Me ...
 </h2>
 
 - 🏢 **Student** @ **Vishwakarma Institute of Technology, Pune**
-- 🌐 **Cloud Expertise**: AWS (Amazon Web Services)
-- 🔧 **Infrastructure as Code**: Terraform
-- 🛠️ **DevOps Tools**: CI/CD pipelines, Docker, Gitlab CI
-- 📈 **Focus Areas**: Cloud architecture, automation, infrastructure optimization, and security
-- 🥅 **2026 Goals**: Contribute more towards Open Source Projects and advance Kubernetes skills
+- 🌐 **Cloud Expertise:** AWS (Amazon Web Services)
+- 🔧 **Infrastructure as Code:** Terraform
+- 🛠️ **DevOps Tools:** CI/CD Pipelines, Docker, GitHub Actions, GitLab CI
+- 📈 **Focus Areas:** Cloud Architecture, Automation, Infrastructure Optimization, and Security
+- 🥅 **2026 Goals:** Contribute more to Open Source Projects and advance my Kubernetes skills
 
-&emsp;
+<br>
+
 <h2>
- 🛠️ My Skills
+  🛠️ My Skills
 </h2>
 
 ### SRE & DevOps:
-&emsp;
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)
-![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=Terraform)
-![Terragrunt](https://img.shields.io/badge/-Terragrunt-000?&logo=Terragrunt)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![Github-Actions](https://img.shields.io/badge/-GithubActions-000?&logo=GitHub-Actions)
-![Gitlab-CI](https://img.shields.io/badge/-Gitlab%20CI-000?&logo=Gitlab-CI)
 
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
+  <img src="https://img.shields.io/badge/Terragrunt-111111?style=for-the-badge&logo=terraform&logoColor=white" alt="Terragrunt"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI"/>
+</p>
 
-### Programming languages:
-&emsp;
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007ACC)
-![C++](https://img.shields.io/badge/-C%2B%2B-000?&logo=C%2B%2B)
-![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash)
+### Programming Languages:
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+</p>
 
 ### Frameworks and Libraries:
-&emsp;
-![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI)
-![Numpy](https://img.shields.io/badge/-Numpy-000?&logo=Numpy)
-![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?&logo=Matplotlib)
-![Selenium](https://img.shields.io/badge/-Selenium-000?&logo=Selenium)
-![Beautiful Soup](https://img.shields.io/badge/-Beautiful%20Soup-000?&logo=BeautifulSoup)
+
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
+  <img src="https://img.shields.io/badge/BeautifulSoup-111111?style=for-the-badge&logo=python&logoColor=white" alt="BeautifulSoup"/>
+</p>
 
 ### Databases:
-&emsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
-![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
-![RedShift](https://img.shields.io/badge/-RedShift-000?&logo=Redshift)
 
-&emsp;
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white" alt="Amazon Redshift"/>
+</p>
+
+<br>
+
 <h2>
   🌟 Highlights
 </h2>
 
-- **Cloud Infrastructure Design**: Architected and deployed scalable, secure, and cost-effective AWS solutions for enterprise clients.
-- **Automation**: Automated infrastructure provisioning and deployments using Terraform and CI/CD pipelines.
-- **Security**: Implemented best practices for cloud security, including IAM policies, encryption, and compliance monitoring.
-- **Collaboration**: Worked closely with development teams to integrate DevOps practices and improve delivery pipelines.
+- ☁️ <strong>Cloud Engineering:</strong> Building scalable and secure cloud infrastructure using AWS.
+- 🏗️ <strong>Infrastructure as Code:</strong> Provisioning and managing infrastructure with Terraform and Terragrunt.
+- ⚙️ <strong>DevOps & Automation:</strong> Working with CI/CD pipelines, Docker, GitHub Actions, and GitLab CI.
+- 🔐 <strong>Cloud Security:</strong> Exploring IAM, encryption, secure infrastructure, and cloud security best practices.
+- ☸️ <strong>Kubernetes:</strong> Expanding hands-on skills in container orchestration and cloud-native infrastructure.
+- 🌐 <strong>Open Source:</strong> Focusing on contributing to open-source projects throughout 2026.
 
-&emsp;
+<br>
 
----
+<hr>
 
-&emsp;
 <div align="left">
   <h2>
-    <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>
+    <img
+      src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif"
+      width="30px"
+      alt="Git"
+    />
     Git Activeness
   </h2>
 </div>
----
-
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pixel-Stock&theme=juicyfresh&no-bg=true&title=MultiLanguage,ReStars,Commit,Followers,Repo,PR,Experience,Stars" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Pixel-Stock&theme=github-dark&hide_border=true&area=true"
+    alt="GitHub Activity Graph"
+    width="100%"
+  />
 </p>
 
-&emsp;
-
+<br>
 
 <h2>
- 📊 LeetCode Stats
+  🏆 GitHub Trophies
 </h2>
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Midnight_Raven)](https://leetcode.com/Midnight_Raven)
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Pixel-Stock&theme=juicyfresh&no-bg=true&margin-w=8&title=MultiLanguage,Commits,Followers,Repositories,PullRequest,Experience,Stars"
+    alt="GitHub Trophies"
+  />
+</p>
 
+<br>
 
+<h2>
+  📊 LeetCode Stats
+</h2>
+
+<p align="center">
+  <img
+    src="https://leetcard.jacoblin.cool/Midnight_Raven?theme=dark&font=Karma&ext=heatmap"
+    alt="LeetCode Stats"
+  />
+</p>
+
+<br>
 
 <h2 align="left">📫 Connect with me:</h2>
 
 <p align="center">
-    <a href="mailto:kulkarnimrugesh06@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" height="40" width="40" alt="Gmail"/></a>
-    <a href="https://linkedin.com/in/mrugeshkulkarni" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/msameerfarooq" height="30" width="40" /></a>
-    <a href="https://www.leetcode.com/Midnight_Raven" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="msameerfarooq" height="30" width="40" /></a>
+  <a href="mailto:kulkarnimrugesh06@gmail.com" target="_blank">
+    <img
+      src="https://img.icons8.com/color/48/000000/gmail-new.png"
+      height="40"
+      width="40"
+      alt="Gmail"
+    />
+  </a>
+
+  <a href="https://linkedin.com/in/mrugeshkulkarni" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="LinkedIn"
+      height="30"
+      width="40"
+    />
+  </a>
+
+  <a href="https://www.leetcode.com/Midnight_Raven" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
+      alt="LeetCode"
+      height="30"
+      width="40"
+    />
+  </a>
 </p>
+
 <br>
 
+<h2 align="left">✍️ Random Quote:</h2>
 
-<h2 align="left">✍️Random Quote:</h2>
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+<p align="center">
+  <img
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"
+    alt="Random Quote"
+  />
+</p>
