@@ -182,7 +182,7 @@
 </h2>
 <h2>
   <img
-    src="[https://media.giphy.com/media/3o7btZ3T6y3JTmVYQw/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTU2eDR5OGo5Z2Yzazk0ZWRsaGVheTg3MjJsMDN1dGlyeDI4Yjk4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iroGO5siMg0eXrwI2v/giphy.gif)"
+    src="https://giphy.com/stickers/shine-shiny-stefdubbs-iroGO5siMg0eXrwI2v"
     width="30px"
     alt="Connect"
   />
