@@ -192,54 +192,6 @@
 
 <h2>
   <img
-    src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif"
-    width="30px"
-    alt="Git"
-  />
-  Git Activeness
-</h2>
-
-<p align="center">
-  <img
-    src="https://gh-heat.anishroy.com/api/Pixel-Stock/svg?theme=green&darkMode=true&v=2026&transparent=true&shape=square&showMonthLabels=true&showDayLabels=true&showLegend=true"
-    alt="Pixel-Stock GitHub Contribution Heatmap 2026"
-    width="100%"
-  />
-</p>
-
-<p align="center">
-  <strong>2026</strong>
-  &nbsp;•&nbsp;
-  <a href="https://gh-heat.anishroy.com/api/Pixel-Stock/svg?theme=green&darkMode=true&v=2025&transparent=true&shape=square&showMonthLabels=true&showDayLabels=true&showLegend=true">2025</a>
-  &nbsp;•&nbsp;
-  <a href="https://gh-heat.anishroy.com/api/Pixel-Stock/svg?theme=green&darkMode=true&v=2024&transparent=true&shape=square&showMonthLabels=true&showDayLabels=true&showLegend=true">2024</a>
-  &nbsp;•&nbsp;
-  <a href="https://github.com/Pixel-Stock?tab=overview">All Activity</a>
-</p>
-
-<br>
-
-<h2>
-  <img
-    src="https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif"
-    width="30px"
-    alt="Trophy"
-  />
-  GitHub Trophies
-</h2>
-
-<p align="center">
-  <img
-    src="./profile/trophy.svg"
-    alt="GitHub Trophies"
-    width="100%"
-  />
-</p>
-
-<br>
-
-<h2>
-  <img
     src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif"
     width="30px"
     alt="LeetCode"
