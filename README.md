@@ -240,6 +240,24 @@
 </p>
 <br>
 
+<p align="center">
+  <a href="mailto:kulkarnimrugesh06@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" height="35" width="35" alt="Gmail">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/mrugeshkulkarni">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" width="35" alt="LinkedIn">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.leetcode.com/Midnight_Raven">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="35" width="35" alt="LeetCode">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Pixel-Stock">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="35" width="35" alt="GitHub">
+  </a>
+</p>
+
 <br>
 
 <h2>
