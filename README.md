@@ -135,6 +135,22 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=sqlite)
 ![Redshift](https://img.shields.io/badge/-Redshift-000?&logo=amazonredshift)
 ![Supabase](https://img.shields.io/badge/-Supabase-000?&logo=supabase)
+
+
+<h2>
+  <img src="https://media.giphy.com/media/qgQUggACo3Pfv687qPC/giphy.gif" width="30px" alt="Highlights">
+  &nbsp;Highlights
+</h2>
+
+- **Cloud & DevOps:** Designed and deployed scalable cloud infrastructure using AWS, Terraform, Docker, Kubernetes, and CI/CD automation, with an emphasis on reliability, security, and cost efficiency.
+
+- **AI/ML Engineering:** Built solutions involving computer vision, semantic segmentation, GAN-based image translation, LLM applications, RAG pipelines, and model evaluation.
+
+- **Full-Stack Engineering:** Developed end-to-end applications across React, Next.js, Angular, TypeScript, Python, FastAPI, Node.js, Spring Boot, and PostgreSQL.
+
+- **Problem Solving & Engineering:** Solved 250+ LeetCode problems across Easy, Medium, and Hard difficulty levels while continuously expanding expertise in cloud engineering, AI/ML, Kubernetes, and open-source development.
+
+
 <h2>
   <img
     src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif"
