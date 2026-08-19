@@ -138,7 +138,7 @@
 
 
 <h2>
-  <img src="https://media.giphy.com/media/qgQUggACo3Pfv687qPC/giphy.gif" width="30px" alt="Highlights">
+  <img src="https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="30px" alt="Highlights">
   &nbsp;Highlights
 </h2>
 
