@@ -75,6 +75,17 @@
 
 &emsp;
 
+---
+
+&emsp;
+<div align="left">
+  <h2>
+    <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>
+    Git Activeness
+  </h2>
+</div>
+---
+
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Pixel-Stock&theme=juicyfresh&no-bg=true&title=MultiLanguage,ReStars,Commit,Followers,Repo,PR,Experience,Stars" />
