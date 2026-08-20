@@ -20,15 +20,15 @@
   About Me ...
 </h2>
 
-- **Computer Science Engineering Student** at **Vishwakarma Institute of Technology, Pune**
-- Focused on **Cloud & DevOps, AI/ML Engineering, and Full-Stack Development**
-- Building and deploying applications across **AWS, Kubernetes, Docker, and CI/CD environments**
-- Experienced in developing **scalable backend services, REST APIs, and full-stack applications**
-- Exploring **LLMs, RAG pipelines, Agentic AI, Computer Vision, and applied Machine Learning**
-- Interested in **Cloud Architecture, Infrastructure Automation, System Reliability, and Security**
-- Strong interest in **Data Structures, Algorithms, Problem Solving, and Software Engineering**
-- Currently expanding my expertise in **Kubernetes, Cloud Architecture, AI/ML systems, and Open Source Development**
-
+- **Education:** Computer Science Engineering Student at **Vishwakarma Institute of Technology, Pune**
+- **Focus:** Cloud & DevOps, AI/ML Engineering, and Full-Stack Development
+- **Strong Interests:** Cloud Architecture, Infrastructure Automation, Distributed Systems, AI/ML, and Software Engineering
+- **Engineering:** Building scalable applications, backend systems, APIs, and cloud-native solutions
+- **AI / ML:** Exploring LLM Applications, RAG, Agentic AI, Computer Vision, and Deep Learning
+- **Problem Solving:** Data Structures, Algorithms, Competitive Programming, and Software Engineering
+- **Current Learning:** Kubernetes, Cloud Architecture, AI/ML Systems, and production-oriented engineering
+- **Open Source:** Interested in contributing to practical projects and collaborating with the developer community
+- **Long-Term Goal:** Design and build reliable, scalable, and intelligent systems
 <br>
 
 <h2>
