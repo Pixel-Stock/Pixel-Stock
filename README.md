@@ -22,13 +22,9 @@
 
 - **Education:** Computer Science Engineering Student at **Vishwakarma Institute of Technology, Pune**
 - **Focus:** Cloud & DevOps, AI/ML Engineering, and Full-Stack Development
-- **Strong Interests:** Cloud Architecture, Infrastructure Automation, Distributed Systems, AI/ML, and Software Engineering
-- **Engineering:** Building scalable applications, backend systems, APIs, and cloud-native solutions
-- **AI / ML:** Exploring LLM Applications, RAG, Agentic AI, Computer Vision, and Deep Learning
-- **Problem Solving:** Data Structures, Algorithms, Competitive Programming, and Software Engineering
-- **Current Learning:** Kubernetes, Cloud Architecture, AI/ML Systems, and production-oriented engineering
-- **Open Source:** Interested in contributing to practical projects and collaborating with the developer community
-- **Long-Term Goal:** Design and build reliable, scalable, and intelligent systems
+- **Strong Interests:** Cloud Architecture, Infrastructure Automation, AI/ML, Distributed Systems, and Software Engineering
+- **Currently Learning:** Kubernetes, Cloud Architecture, AI/ML Systems, and Open Source Development
+- **Goal:** Build reliable, scalable, and intelligent systems while contributing to meaningful Open Source projects
 <br>
 
 <h2>
@@ -186,6 +182,10 @@
   &nbsp;&nbsp;
   <a href="https://github.com/Pixel-Stock">
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="35" width="35" alt="GitHub">
+  </a>
+    &nbsp;&nbsp;
+  <a href="https://builder.aws.com/community/@mrugeshk">
+    <img src="https://img.icons8.com/color/48/amazon-web-services.png" height="35" width="35" alt="AWS Builder">
   </a>
 </p>
 
