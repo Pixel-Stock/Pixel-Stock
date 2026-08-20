@@ -192,12 +192,8 @@
 <br>
 
 <h2>
-  <img
-    src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif"
-    width="30px"
-    alt="Quote"
-  />
-  Random Quote
+  <img src="https://media1.giphy.com/media/4yKu6tJGlfo3v5B27Q/giphy.gif" width="30px" alt="Random Quote">
+  &nbsp;Random Quote
 </h2>
 
 <p align="center">
