@@ -150,14 +150,9 @@
 
 - **Problem Solving & Engineering:** Solved 250+ LeetCode problems across Easy, Medium, and Hard difficulty levels while continuously expanding expertise in cloud engineering, AI/ML, Kubernetes, and open-source development.
 
-
 <h2>
-  <img
-    src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif"
-    width="30px"
-    alt="LeetCode"
-  />
-  LeetCode Stats
+  <img src="https://assets.leetcode.com/users/images/71c62ed7-80f2-4c84-a46e-07635932c4e5_1740028280.2879555.gif" width="30px" alt="LeetCode Stats">
+  &nbsp;LeetCode Stats
 </h2>
 
 <p align="center">
